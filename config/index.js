@@ -18,7 +18,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "omAwU6bM6ic3EEhZs0yqUKyum6Zw",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "	ZD5MbGucwZmupaMfsfoNYa-OBWCO-cIGFjiMTdy_bIA",
+   *    useTemplateId: "ZD5MbGucwZmupaMfsfoNYa-OBWCO-cIGFjiMTdy_bIA",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://weathernew.pae.baidu.com/weathernew/pc?query=%E5%8C%97%E4%BA%AC%E5%A4%A9%E6%B0%94&srcid=4982"
    *   }, 
@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "omAwU6bM6ic3EEhZs0yqUKyum6Zw",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "	ZD5MbGucwZmupaMfsfoNYa-OBWCO-cIGFjiMTdy_bIA",
+      useTemplateId: "ZD5MbGucwZmupaMfsfoNYa-OBWCO-cIGFjiMTdy_bIA",
       // 所在省份
       province: "北京",
       // 所在城市
