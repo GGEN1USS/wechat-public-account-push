@@ -14,13 +14,13 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "老婆大人",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "omAwU6VAduMke5UEbbs0bmWJU7As",
+   *    id: "omAwU6bM6ic3EEhZs0yqUKyum6Zw",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "LiE3W5xaevMHqrcNo6TaI3YBxco8fRbRqBW9dJauBIA",
+   *    useTemplateId: "	ZD5MbGucwZmupaMfsfoNYa-OBWCO-cIGFjiMTdy_bIA",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://www.baidu.com"
+   *    openUrl: "https://weathernew.pae.baidu.com/weathernew/pc?query=%E5%8C%97%E4%BA%AC%E5%A4%A9%E6%B0%94&srcid=4982"
    *   }, 
    * ]
    */
@@ -29,15 +29,15 @@ export const config = {
       // 想要发送的人的名字
       name: "宝贝老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "omAwU6VAduMke5UEbbs0bmWJU7As",
+      id: "omAwU6bM6ic3EEhZs0yqUKyum6Zw",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "LiE3W5xaevMHqrcNo6TaI3YBxco8fRbRqBW9dJauBIA",
+      useTemplateId: "	ZD5MbGucwZmupaMfsfoNYa-OBWCO-cIGFjiMTdy_bIA",
       // 所在省份
       province: "北京",
       // 所在城市
       city: "北京",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://baidu.com"
+      openUrl: "https://weathernew.pae.baidu.com/weathernew/pc?query=%E5%8C%97%E4%BA%AC%E5%A4%A9%E6%B0%94&srcid=4982"
     }, 
   ],
 
@@ -46,7 +46,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "	LiE3W5xaevMHqrcNo6TaI3YBxco8fRbRqBW9dJauBIA",
+  CALLBACK_TEMPLATE_ID: "ZD5MbGucwZmupaMfsfoNYa-OBWCO-cIGFjiMTdy_bIA",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -113,7 +113,14 @@ export const config = {
       "因为太喜欢你，所以看谁都像是情敌。",
       "申请成为你爱里的永久居民。",
       "遇见你，就好像捡到了100斤的运气",
-    ]},
+      "被你安稳的爱着，我就有做任何事的勇气。",
+      "我是为你而来，不在乎穿越绵绵山脉。",
+      "我爱你，所以卑微到尘埃里，然后开出花来。",
+      "遇见你爱意汹涌，看世间万物都浪漫心动。",
+      "日出东方落于西，朝思暮想念于你。",
+      "我的三观不正，很歪，全都偏向你。",
+      "海的对岸是海，书的结局是爱，我的心里是你。",
+      ]},
   ],
 
   /** 每日一言 */
